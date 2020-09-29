@@ -14,6 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 `Code me=50` text
 
+$\alpha$
 
 ### Markdown
 
