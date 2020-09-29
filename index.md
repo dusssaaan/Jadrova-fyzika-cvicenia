@@ -8,6 +8,8 @@ You can use the [editor on GitHub](https://github.com/dusssaaan/Jadrova-fyzika-c
 
 [Cvičenie 1](cvicenie_jedna.md)
 
+[Cvičenie 2](prve_cvicenie.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Dôležité konštanty
