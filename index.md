@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/dusssaaan/Jadrova-fyzika-c
 
 ## Riešenia jednotlivých úloh
 
-[Cvičenie 1](cvicenie_jedna.md)
+[Cvičenie 1](cvicenie_jedna.html)
 
 [Cvičenie 2](prve_cvicenie.html)
 
