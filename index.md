@@ -1,6 +1,7 @@
 # Čo sme prebrali
 1. *týžďen* Cvičenie 1
 2. *týžďen* pokračovanie v cvičení 1 + učili sme sa pracovať s Jupyter notebookom
+3. *týžďen* dokončenie Cvičenia 1, začiatok Cvičenia 2
 
 ## Zadania vo formáte pdf
 [Cvičenie 1](zadania/Cvičenie jedna_ziaci.pdf ) [Cvičenie 2](zadania/Cvičenie dva_ziaci.pdf ) [Cvičenie 3](zadania/Cvičenie tri_ziaci.pdf ) [Cvičenie 4](zadania/Cvičenie stytri_ziaci.pdf ) [Cvičenie 5](zadania/Cvičenie pat_ziaci.pdf )
