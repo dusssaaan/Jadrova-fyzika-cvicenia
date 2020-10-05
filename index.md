@@ -16,8 +16,8 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 ## Zoznam domácich úloh
 
 ```markdown
-- Tu pribudne zoznam úloh
-- Úloha 1
+- Dokončiť 1.4, 1.5, 2.2
+
 ```
 
 ## Bodovanie
