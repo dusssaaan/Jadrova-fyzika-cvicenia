@@ -26,7 +26,7 @@ Za riešenia domácich úloh a aktivitu na cvičeniach môžete dostať 20 bodov
 
 ### Čo je to Jupyter notebook?
 
-Zjednodušene povedané, je to vývojové prostredie Pythonu (nielen), v ktorom si môžete prehľadne komentovať kód a výstupy z kódu máte stále dostupné. Jeho veľkou výhodou je možnosť jednoduchého a prehľadného zdieľania. Na internete je množstvo Jupyter notebookov s rôznymi [témami](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks.)  
+Zjednodušene povedané, je to vývojové prostredie Pythonu (nielen), v ktorom si môžete prehľadne komentovať kód a výstupy z kódu máte stále dostupné. Jeho veľkou výhodou je možnosť jednoduchého a prehľadného zdieľania. Na internete je množstvo Jupyter notebookov s rôznymi [témami](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).  
 
 Odporúčam si nainštalovať [Anacondu](https://www.anaconda.com/products/individual) - tým získate hneď Python, množstvo knižníc, a vývojové prostredia ako Jupyter notebook, Spyder, Jupyter-lab.  
 
