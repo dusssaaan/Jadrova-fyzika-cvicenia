@@ -18,6 +18,8 @@
 
 [Cvičenie 3, riešenie](Cvicenie_tri.html)
 
+[Cvičenie 4, riešenie](Cvičenie styri_r.pdf)
+
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
 ## Zoznam domácich úloh
