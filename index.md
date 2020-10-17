@@ -2,6 +2,8 @@
 1. *týždeň* Cvičenie 1
 2. *týždeň* pokračovanie v cvičení 1 + učili sme sa pracovať s Jupyter notebookom
 3. *týždeň* dokončenie Cvičenia 1, začiatok Cvičenia 2
+4. *týždeň* dokončenie Cvičenia 2
+
 
 ## Zadania vo formáte pdf
 [Cvičenie 1](zadania/Cvičenie jedna_ziaci.pdf ) [Cvičenie 2](zadania/Cvičenie dva_ziaci.pdf ) [Cvičenie 3](zadania/Cvičenie tri_ziaci.pdf ) [Cvičenie 4](zadania/Cvičenie stytri_ziaci.pdf ) [Cvičenie 5](zadania/Cvičenie pat_ziaci.pdf )
@@ -17,7 +19,8 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 ## Zoznam domácich úloh
 
 ```markdown
-- Dokončiť 1.4, 1.5, 2.2
+- 3. *týždeň*: Dokončiť 1.4, 1.5, 2.2
+- 4. *týždeň*:  2.4 d) a e)
 
 ```
 
