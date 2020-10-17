@@ -14,6 +14,10 @@
 
 [Cvičenie 1, riešenie](Cvicenie_jedna.html)
 
+[Cvičenie 2, riešenie](Cvicenie_dva.html)
+
+[Cvičenie 3, riešenie](Cvicenie_tri.html)
+
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
 ## Zoznam domácich úloh
