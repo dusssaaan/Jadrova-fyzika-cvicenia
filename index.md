@@ -4,6 +4,7 @@
 3. *týždeň* dokončenie Cvičenia 1, začiatok Cvičenia 2
 4. *týždeň* dokončenie Cvičenia 2
 5. *týždeň* Cvičenia 3, začiatok Cvičenia 4.
+6. *týždeň* Cvičenia 4, dokončenie
 
 
 ## Zadania vo formáte pdf
@@ -29,7 +30,7 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 - 3. týždeň: Dokončiť 1.4, 1.5, 2.2
 - 4. týždeň:  2.4 d) a e)
 - 5. týždeň:  nakresliť graf m(Z,A) v závislosti od Z pre A=100,101,102 a C3.1 príklad
-
+- 6. týždeň:  4.3 len časť týkajúca sa 28Na, 4.4 - celé
 ```
 
 ## Bodovanie
