@@ -22,6 +22,8 @@
 
 [Cvičenie 4, riešenie](Cvičenie styri_r.pdf)
 
+[Cvičenie 5, riešenie](Cvicenie_pat.html)
+
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
 ## Zoznam domácich úloh
@@ -31,6 +33,7 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 - 4. týždeň:  2.4 d) a e)
 - 5. týždeň:  nakresliť graf m(Z,A) v závislosti od Z pre A=100,101,102 a C3.1 príklad
 - 6. týždeň:  4.3 len časť týkajúca sa 28Na, 4.4 - celé
+- 7. týždeň:  C.V.4
 ```
 
 ## Bodovanie
