@@ -25,7 +25,7 @@
 
 [Cvičenie 5, riešenie](Cvicenie_pat.html)
 
-[Cvičenie 6, riešenie](Cvicenie_sest.html), [Pr6.1 -1. časť](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/blob/master/PR6_1-PrechodBarierou-1.JPG), [Pr6.1 -2. časť](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/blob/master/PR6_1-PrechodBarierou-2.JPG), [Pr6.2] (https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/blob/master/PR6_2.JPG)
+[Cvičenie 6, riešenie](Cvicenie_sest.html), [Pr6.1 -1. časť](PR6_1-PrechodBarierou-1.JPG), [Pr6.1 -2. časť](PR6_1-PrechodBarierou-2.JPG), [Pr6.2](PR6_2.JPG)
 
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
