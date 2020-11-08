@@ -5,7 +5,8 @@
 4. *týždeň* dokončenie Cvičenia 2
 5. *týždeň* Cvičenia 3, začiatok Cvičenia 4.
 6. *týždeň* Cvičenia 4, dokončenie
-
+7. *týždeň* Cvičenia 5
+8. *týždeň* Cvičenia 6 ?
 
 ## Zadania vo formáte pdf
 [Cvičenie 1](zadania/Cvičenie jedna_ziaci.pdf ) [Cvičenie 2](zadania/Cvičenie dva_ziaci.pdf ) [Cvičenie 3](zadania/Cvičenie tri_ziaci.pdf ) [Cvičenie 4](zadania/Cvičenie styri_ziaci.pdf ) [Cvičenie 5](zadania/Cvičenie pat_ziaci.pdf )
@@ -24,6 +25,8 @@
 
 [Cvičenie 5, riešenie](Cvicenie_pat.html)
 
+[Cvičenie 6, riešenie](Cvicenie_sest.html), [Pr6.1 -1. časť](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/blob/master/PR6_1-PrechodBarierou-1.JPG), [Pr6.1 -2. časť](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/blob/master/PR6_1-PrechodBarierou-2.JPG), [Pr6.2] (https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/blob/master/PR6_2.JPG)
+
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
 ## Zoznam domácich úloh
@@ -34,6 +37,7 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 - 5. týždeň:  nakresliť graf m(Z,A) v závislosti od Z pre A=100,101,102 a C3.1 príklad
 - 6. týždeň:  4.3 len časť týkajúca sa 28Na, 4.4 - celé
 - 7. týždeň:  C.V.4
+- 8. a 9. týždeň: 6.4 dokončiť otázky a 6.9
 ```
 
 ## Bodovanie
