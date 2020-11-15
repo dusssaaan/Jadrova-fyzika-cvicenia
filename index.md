@@ -37,7 +37,7 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 - 5. týždeň:  nakresliť graf m(Z,A) v závislosti od Z pre A=100,101,102 a C3.1 príklad
 - 6. týždeň:  4.3 len časť týkajúca sa 28Na, 4.4 - celé
 - 7. týždeň:  C.V.4
-- 8. a 9. týždeň: 6.4 dokončiť otázky a 6.9
+- 9. a 10. týždeň: 6.4 dokončiť otázky a 6.9
 ```
 
 ## Bodovanie
