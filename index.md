@@ -6,7 +6,12 @@
 5. *týždeň* Cvičenia 3, začiatok Cvičenia 4.
 6. *týždeň* Cvičenia 4, dokončenie
 7. *týždeň* Cvičenia 5
-8. *týždeň* Cvičenia 6 ?
+8. *týždeň* Cvičenia 6, začiatok
+9. *týždeň* Cvičenia 6 a 7
+10. *týždeň* Nekoná sa
+11. *týždeň* Cvičenia 8 
+12. *týždeň* Cvičenia 9  ?
+13. *týždeň* Cvičenia 10 ? 
 
 ## Zadania vo formáte pdf
 [Cvičenie 1](zadania/Cvičenie jedna_ziaci.pdf ) [Cvičenie 2](zadania/Cvičenie dva_ziaci.pdf ) [Cvičenie 3](zadania/Cvičenie tri_ziaci.pdf ) [Cvičenie 4](zadania/Cvičenie styri_ziaci.pdf ) [Cvičenie 5](zadania/Cvičenie pat_ziaci.pdf )
@@ -26,6 +31,8 @@
 [Cvičenie 5, riešenie](Cvicenie_pat.html)
 
 [Cvičenie 6, riešenie](Cvicenie_sest.html), [Pr6.1 -1. časť](PR6_1-PrechodBarierou-1.JPG), [Pr6.1 -2. časť](PR6_1-PrechodBarierou-2.JPG), [Pr6.2](PR6_2.JPG)
+
+[Cvičenie 7, riešenie](Cvicenie_sedem.html)
 
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
