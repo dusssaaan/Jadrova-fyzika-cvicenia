@@ -34,6 +34,8 @@
 
 [Cvičenie 7, riešenie](Cvicenie_sedem.html)
 
+[Cvičenie 8, riešenie](Cvicenie_osem.html)
+
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
 ## Zoznam domácich úloh
