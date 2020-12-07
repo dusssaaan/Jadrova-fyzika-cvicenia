@@ -10,8 +10,8 @@
 9. *týždeň* Cvičenia 6 a 7
 10. *týždeň* Nekoná sa
 11. *týždeň* Cvičenia 8 
-12. *týždeň* Cvičenia 9  
-13. *týždeň* Cvičenia 10  
+12. *týždeň* Cvičenia 9 a začiatok Cvičenia 10 
+13. *týždeň* Nekoná sa  
 
 ## Zadania vo formáte pdf
 [Cvičenie 1](zadania/Cvičenie jedna_ziaci.pdf ) [Cvičenie 2](zadania/Cvičenie dva_ziaci.pdf ) [Cvičenie 3](zadania/Cvičenie tri_ziaci.pdf ) [Cvičenie 4](zadania/Cvičenie styri_ziaci.pdf ) [Cvičenie 5](zadania/Cvičenie pat_ziaci.pdf )
@@ -36,6 +36,10 @@
 
 [Cvičenie 8, riešenie](Cvicenie_osem.html)
 
+[Cvičenie 9, riešenie](Cvicenie_devat.html)
+
+[Cvičenie 10, riešenie](Cvicenie_desat.html)
+
 ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](https://github.com/dusssaaan/Jadrova-fyzika-cvicenia/tree/master).
 
 ## Zoznam domácich úloh
@@ -48,6 +52,7 @@ ak si chcete stiahnuť notebooky vo formáte .ipynb nie .html, môžete [tu](htt
 - 7. týždeň:  C.V.4
 - 9. a 10. týždeň: 6.4 dokončiť otázky a 6.9
 - 11. týždeň: Príklady 8.6 a 8.7
+- 12. týždeň: Príklad 9.6 b) a c)
 ```
 
 ## Bodovanie
